@@ -9,7 +9,7 @@ Instead of only provisioning infrastructure, this lab simulates operational fail
 ---
 
 ## Architecture
-
+![Architecture Diagram](architecture.png)
 The infrastructure includes:
 
 - Custom VPC
@@ -119,3 +119,6 @@ Private keys and state files are never committed.
 Andrius Platform/Infrastructure engineer
 
 
+
+
+[def]: break-fix-lab.png
